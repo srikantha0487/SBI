@@ -1,2 +1,5 @@
-public class Fourth{
+public class Fourth{ 
+  m2{
+  //logic
+  }
 }
